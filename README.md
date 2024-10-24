@@ -1,1 +1,1 @@
-Download zip file & open using xCode
+Download zip file & open using Xcode
